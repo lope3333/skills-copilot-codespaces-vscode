@@ -1,20 +1,48 @@
-Copyright (c) GitHub and others
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu về phố cổ Hội An</title>
+    <style>
+        body {
+            background-color: lightyellow;
+            font-family: Verdana, sans-serif;
+            color: black;
+            margin: 0;
+        }
+        h1 {
+            color: red;
+            text-align: center;
+            font-size: 25px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            text-align: justify;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cơm gà bà Buội Siêu phẩm Phố Hội </h1>
+    <p> Giới thiệu về cơm gà bà Buội </p>
+    <p>
+        Cơm gà bà Buội Hội An là món ăn bạn nhất định phải thử khi đến phố cổ. Nếu bạn đã từng thử, chắc chắn bạn sẽ nhớ mãi mùi vị món cơm gà ngon nức tiếng xa gần bởi hương vị rất đặc biệt mà bạn sẽ không thể cảm nhận được ở bất cứ một nơi nào khác ngoài Hội An.
+    </p>
+    <img src="https://assets.onecompiler.app/433w2e9q6/433w269pf/Anh5-JPG-1472-1419310511.jpg">
+    <p> Tọa lại 22 Đ. Phan Chu Trinh, Phường Minh An, Hội An, Quảng Nam, cơm gà nơi đây luôn tấp nập kẻ qua người lại. </p>
+    <img src="https://assets.onecompiler.app/433w2e9q6/433w269pf/Com-ga-Ba-Buoi.jpg">
+    <p> Giờ hãy cùng thưởng thức một dĩa cơm gà và nhâm nhi giai điệu tuổi trẻtrẻ này!!!</p>
+     <img src="https://assets.onecompiler.app/433w2e9q6/433w269pf/com-ga-hoi-an-3.jpg">
+     
+     
+i 
+</body>
+</html>
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
